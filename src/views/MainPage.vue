@@ -1,8 +1,6 @@
 <template>
   <div>
-    main
-
-    <div>{{ cookieToken }}</div>
+    <span></span>
   </div>
   <!-- <div>
     <div class="main list-container contents">
